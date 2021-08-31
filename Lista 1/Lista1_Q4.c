@@ -42,4 +42,6 @@
 	
 	
 	printf("\nSaldo atual: R$%.2f", saldoFinal);
+	
+	system("pause");
   }
